@@ -1,13 +1,13 @@
 <div align="center">
 
-# DREGVITON
+# dregvilton
 
-### BACKEND DEVELOPER
+### backend developer
 
 `PHP`　·　`Yii2`　·　`PostgreSQL`　·　`Redis`　·　`Go`
 
 <br>
 
-<sub>API / DATABASES / SYSTEMS</sub>
+<sub>api / databases / systems</sub>
 
 </div>
