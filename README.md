@@ -15,6 +15,55 @@ Also using **ClickHouse, Docker, Nginx, Go and Python**.
 
 <br clear="right"/>
 
+## featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 / full-stack backend project</sub>
+      <h3><a href="https://github.com/dregvilton/taskpulse-api">TaskPulse</a></h3>
+      <p>
+        Task management app with analytics, a Yii2 REST API and Vue 3 frontend.
+        Includes Redis caching, RabbitMQ, transactional outbox, OpenAPI and a public demo.
+      </p>
+      <p><code>PHP</code> <code>Yii2</code> <code>PostgreSQL</code> <code>Redis</code> <code>RabbitMQ</code> <code>Vue 3</code></p>
+      <p>
+        <a href="https://taskpulse-demo.ru/app/"><b>live demo ↗</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/dregvilton/taskpulse-api"><b>repository ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 / data collection</sub>
+      <h3><a href="https://github.com/dregvilton/yandex-market-collector">yandex-market-collector</a></h3>
+      <p>
+        Configurable browser-based Yandex Market collector with concurrent Firefox workers,
+        PostgreSQL observation history and CSV / JSONL export.
+      </p>
+      <p><code>Go</code> <code>PostgreSQL</code> <code>Playwright</code> <code>Firefox</code> <code>Docker</code></p>
+      <p>
+        <a href="https://github.com/dregvilton/yandex-market-collector"><b>repository ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <sub>03 / yii2 application</sub>
+      <h3><a href="https://github.com/dregvilton/book-catalog-yii2">book-catalog-yii2</a></h3>
+      <p>
+        Book and author catalog with subscriptions, SMS notifications, S3-compatible cover storage,
+        role-based scenarios and database-driven reporting.
+      </p>
+      <p><code>PHP</code> <code>Yii2</code> <code>MySQL</code> <code>MinIO</code> <code>Docker</code> <code>GitHub Actions</code></p>
+      <p>
+        <a href="https://github.com/dregvilton/book-catalog-yii2"><b>repository ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## stack
 
 <table>
@@ -28,23 +77,21 @@ Also using **ClickHouse, Docker, Nginx, Go and Python**.
   </tr>
   <tr>
     <td><b>infrastructure</b></td>
-    <td>Redis · Docker · Nginx · Linux</td>
+    <td>Redis · RabbitMQ · Docker · Nginx · Linux</td>
   </tr>
 </table>
 
 <br>
 
-## currently
+## focus
 
-```text
-backend systems / architecture / go
-```
+<code>backend systems</code> · <code>architecture</code> · <code>databases</code> · <code>go</code>
 
 <br>
 
 ## contact
 
-[telegram](https://t.me/kvashnin_dev)
+<a href="https://t.me/kvashnin_dev">telegram</a>
 
 <br>
 
